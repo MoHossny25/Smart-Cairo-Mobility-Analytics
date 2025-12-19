@@ -27,11 +27,10 @@ The project consists of several specialized reporting layers:
 * **Geospatial Insights:** Performance analysis by Cairo districts.
 * **Performance Matrices:** Detailed tables showing booking values and trip durations.
 
-## 📁 Repository Structure
-* `/Reports`: Contains the `.pbix` file.
-* `/Screenshots`: High-resolution images of the dashboard pages.
-* `/Data`: (Optional) Sample datasets used for the analysis.
+## 📸 Preview
+<img width="924" height="492" alt="Screenshot 2025-12-20 014616" src="https://github.com/user-attachments/assets/27725a97-a561-48ab-baa7-f4dbfb24b91d" />
+<img width="924" height="488" alt="Screenshot 2025-12-20 014640" src="https://github.com/user-attachments/assets/b2c71965-1dc2-40ca-8f77-d2993b4efce6" />
+<img width="923" height="492" alt="Screenshot 2025-12-20 014700" src="https://github.com/user-attachments/assets/dfa5d651-644c-4cd8-9a7f-a2a5dd272d08" />
+<img width="925" height="491" alt="Screenshot 2025-12-20 014713" src="https://github.com/user-attachments/assets/076bfcb1-7e57-46b3-a186-8737bacbf2d7" />
+<img width="927" height="489" alt="Screenshot 2025-12-20 014734" src="https://github.com/user-attachments/assets/6e1fcb41-e7cb-40a7-81b2-812a9061f65a" />
 
----
-**Developed by:** [Adham Osama]
-*Connect with me if you're interested in data-driven urban solutions!*
