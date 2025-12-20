@@ -34,3 +34,14 @@ The project consists of several specialized reporting layers:
 <img width="925" height="491" alt="Screenshot 2025-12-20 014713" src="https://github.com/user-attachments/assets/076bfcb1-7e57-46b3-a186-8737bacbf2d7" />
 <img width="927" height="489" alt="Screenshot 2025-12-20 014734" src="https://github.com/user-attachments/assets/6e1fcb41-e7cb-40a7-81b2-812a9061f65a" />
 
+## 📺 Dashboard Demo
+https://github.com/user-attachments/assets/6eea003e-6e07-45c4-b6bf-998a1b3bd992
+
+
+
+
+
+
+
+
+
